@@ -87,7 +87,7 @@ export default hopeTheme({
             disableSelection: false
         },
         feed: {
-            rss: true,
+            rss: false,
             rssOutputFilename: "rss.xml"
         },
         mdEnhance: {
