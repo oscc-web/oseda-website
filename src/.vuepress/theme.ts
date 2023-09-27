@@ -22,7 +22,7 @@ export default hopeTheme({
     },
     logo: "/logo.png",
     logoDark: "/logo.png",
-    repo: "myyerrol/oseda-website",
+    repo: "oscc-web/oseda-website",
     repoDisplay: false,
     repoLabel: "GitHub",
     navbarAutoHide: "mobile",
