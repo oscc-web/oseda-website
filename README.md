@@ -39,7 +39,7 @@ $> cd your-workspaces
 $> git clone git@github.com:oscc-web/oseda-website.git
 ```
 
-### 更新配置
+### 更新依赖
 
 ```sh
 $> ./setup.sh
